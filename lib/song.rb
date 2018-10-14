@@ -13,7 +13,6 @@ class Song
   @@songs = []
 
   def self.all
-    super
     @@songs
   end
 
