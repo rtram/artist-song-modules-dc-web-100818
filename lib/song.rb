@@ -1,3 +1,4 @@
+require_relative '.reset_count_module'
 require 'pry'
 
 class Song
